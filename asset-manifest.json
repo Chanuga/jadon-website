@@ -1,25 +1,29 @@
 {
   "files": {
     "main.css": "/jadon-website/static/css/main.68b36248.chunk.css",
-    "main.js": "/jadon-website/static/js/main.509ce9f9.chunk.js",
-    "main.js.map": "/jadon-website/static/js/main.509ce9f9.chunk.js.map",
+    "main.js": "/jadon-website/static/js/main.5b161be5.chunk.js",
+    "main.js.map": "/jadon-website/static/js/main.5b161be5.chunk.js.map",
     "runtime-main.js": "/jadon-website/static/js/runtime-main.2653f7ed.js",
     "runtime-main.js.map": "/jadon-website/static/js/runtime-main.2653f7ed.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/jadon-website/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.f98b0819.chunk.js": "/jadon-website/static/js/2.f98b0819.chunk.js",
-    "static/js/2.f98b0819.chunk.js.map": "/jadon-website/static/js/2.f98b0819.chunk.js.map",
+    "static/js/2.41ce8190.chunk.js": "/jadon-website/static/js/2.41ce8190.chunk.js",
+    "static/js/2.41ce8190.chunk.js.map": "/jadon-website/static/js/2.41ce8190.chunk.js.map",
     "static/js/3.1f847cf6.chunk.js": "/jadon-website/static/js/3.1f847cf6.chunk.js",
     "static/js/3.1f847cf6.chunk.js.map": "/jadon-website/static/js/3.1f847cf6.chunk.js.map",
     "index.html": "/jadon-website/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/jadon-website/static/css/2.ae9f1eb3.chunk.css.map",
     "static/css/main.68b36248.chunk.css.map": "/jadon-website/static/css/main.68b36248.chunk.css.map",
-    "static/js/2.f98b0819.chunk.js.LICENSE.txt": "/jadon-website/static/js/2.f98b0819.chunk.js.LICENSE.txt",
+    "static/js/2.41ce8190.chunk.js.LICENSE.txt": "/jadon-website/static/js/2.41ce8190.chunk.js.LICENSE.txt",
     "static/media/AWS1.e61592b1.jpg": "/jadon-website/static/media/AWS1.e61592b1.jpg",
     "static/media/AWS2.16d3f17c.jpg": "/jadon-website/static/media/AWS2.16d3f17c.jpg",
     "static/media/AWS3.f0ea7600.png": "/jadon-website/static/media/AWS3.f0ea7600.png",
     "static/media/BlueWatch.0771600b.jfif": "/jadon-website/static/media/BlueWatch.0771600b.jfif",
     "static/media/GreenWatch.aa62c32c.jfif": "/jadon-website/static/media/GreenWatch.aa62c32c.jfif",
     "static/media/MainImage.0730649c.jpg": "/jadon-website/static/media/MainImage.0730649c.jpg",
+    "static/media/MiddleEmptyWatch.b7b07b21.jpg": "/jadon-website/static/media/MiddleEmptyWatch.b7b07b21.jpg",
+    "static/media/SS2.4728c97a.jpg": "/jadon-website/static/media/SS2.4728c97a.jpg",
+    "static/media/SS3.561d7fea.jpg": "/jadon-website/static/media/SS3.561d7fea.jpg",
+    "static/media/SmartWatch.da3bab1c.png": "/jadon-website/static/media/SmartWatch.da3bab1c.png",
     "static/media/banknote.b0d88509.svg": "/jadon-website/static/media/banknote.b0d88509.svg",
     "static/media/blackwatch.00d4d5d3.jpg": "/jadon-website/static/media/blackwatch.00d4d5d3.jpg",
     "static/media/bluetooth.b5b65eb3.png": "/jadon-website/static/media/bluetooth.b5b65eb3.png",
@@ -45,8 +49,8 @@
   "entrypoints": [
     "static/js/runtime-main.2653f7ed.js",
     "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.f98b0819.chunk.js",
+    "static/js/2.41ce8190.chunk.js",
     "static/css/main.68b36248.chunk.css",
-    "static/js/main.509ce9f9.chunk.js"
+    "static/js/main.5b161be5.chunk.js"
   ]
 }
